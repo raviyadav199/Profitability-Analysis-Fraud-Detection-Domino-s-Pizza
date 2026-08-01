@@ -1,0 +1,2 @@
+# Profitability-Analysis-Fraud-Detection-Domino-s-Pizza
+The company has come up with an attractive offer for new customers: each new customer who signs up can avail a discount of 75% on their first order with a maximum cap of ?500. Everything seems to be going well in all the areas in Mumbai, except in Chembur. An unexpectedly number of customers are signing up on a daily basis. Find reason for this?
